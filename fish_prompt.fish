@@ -47,7 +47,7 @@ function fish_prompt
   __user_host
   __current_path
   __git_status
-  __current_time
+  # __current_time
   echo -e ''
   echo (set_color white)"╰─\$ "(set_color normal)
 end
